@@ -11,7 +11,6 @@ I’m eager to learn, improve my skills, and gain hands-on experience while work
 
 ## 🛠 Tech Stack
 
-<!-- Card Grid (works on GitHub md using inline styles) -->
 <div align="center">
 
 <table>
@@ -79,20 +78,24 @@ I’m eager to learn, improve my skills, and gain hands-on experience while work
 
 </div>
 
-> *หมายเหตุ:* ถ้าใช้ธีมสว่าง กรอบสีเทาอ่อนจะยังอ่านง่าย; ถ้าใช้ธีมมืด การ์ดจะกลืนกับพื้นหลังอย่างพอดี
-
 ---
 
-## 🌐 Socials
+## 🌐 Socials  
 <p align="left">
   <a href="https://github.com/palapun" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://www.instagram.com/palapuns/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/punyawat.sanadee" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/>
+  </a>
+</p>  
 
 ---
 
-## 🏆 My GitHub Stats
+## 🏆 My GitHub Stats  
 <a href="https://github.com/palapun">
-  <img src="https://github-readme-stats.vercel.app/api?username=palapun&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="palapun's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=palapun&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="palapun's GitHub stats"/>
 </a>
