@@ -10,27 +10,79 @@ I am eager to learn, improve my skills, and gain hands-on experience while worki
 ---
 
 ## 🛠 Skills  
+
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36"/></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36"/></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36"/></a>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML5
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS3
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br>PHP
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br>Node.js
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/><br>Express
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/><br>React
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br>VS Code
+  </span>
+
+  <span style="border:1px solid #ccc; padding:10px; border-radius:8px; margin:6px; display:inline-block; text-align:center; width:90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma
+  </span>
+
 </p>  
 
 ---
 
 ## 🌐 Socials  
+
 <p align="left">
   <a href="https://www.github.com/palapun" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
