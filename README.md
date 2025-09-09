@@ -2,8 +2,7 @@
 
 ## Web Developer • Backend Developer • Fullstack Developer • Software Tester
 
-I am a student looking for an internship, with a strong interest in **Web Developer** and **Backend Developer** roles.  
-I’m eager to learn, improve my skills, and gain hands-on experience while working with a team to create meaningful, valuable projects.
+I am a student seeking an internship, with a strong interest in Web Development, Backend Development, Fullstack Development, and Software Testing. I am eager to learn, grow my skills, and gain hands-on experience while collaborating with a team to build meaningful and valuable projects.  
 
 ✉️ Contact: **[punyawat5114@gmail.com](mailto:punyawat5114@gmail.com)**
 
