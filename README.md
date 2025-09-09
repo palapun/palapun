@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />, I'm Punyawat
 
-## Web Developer • Backend Developer
+## Web Developer • Backend Developer • Fullstack Developer • Software Tester
 
 I am a student looking for an internship, with a strong interest in **Web Developer** and **Backend Developer** roles.  
 I’m eager to learn, improve my skills, and gain hands-on experience while working with a team to create meaningful, valuable projects.
