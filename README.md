@@ -44,6 +44,9 @@ I am a student seeking an internship, with a strong interest in Web Development,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap"><br><sub>Bootstrap</sub>
     </td>
     <td style="border:1px solid #30363d; border-radius:12px; padding:14px 10px; text-align:center; background:#0d1117;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"><br><sub>Docker</sub>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:12px; padding:14px 10px; text-align:center; background:#0d1117;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"><br><sub>Git</sub>
     </td>
     <td style="border:1px solid #30363d; border-radius:12px; padding:14px 10px; text-align:center; background:#0d1117;">
@@ -74,6 +77,7 @@ I am a student seeking an internship, with a strong interest in Web Development,
     </td>
   </tr>
 </table>
+
 
 </div>
 
