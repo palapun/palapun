@@ -2,7 +2,7 @@
 
 ## Web Developer • Backend Developer • Fullstack Developer • Software Tester
 
-I am a student seeking an internship, with a strong interest in Web Development, Backend Development, Fullstack Development, and Software Testing. I am eager to learn, grow my skills, and gain hands-on experience while collaborating with a team to build meaningful and valuable projects.  
+Computer Science graduate from Kasetsart University with a focus on web and full-stack development. Experienced in building web applications using React and Next.js. Completed an internship at Synerry Corporation (Thailand), where I contributed to government web projects and assisted in the development of an AI chat platform built with Go and Fiber. Currently seeking a Full Stack Developer or Web Developer position to apply and further develop my technical skills in a professional environment.
 
 ✉️ Contact: **[punyawat5114@gmail.com](mailto:punyawat5114@gmail.com)**
 
