@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />, I'm Punyawat
 
-## Web Developer • Backend Developer • Fullstack Developer • Software Tester
+## Web Developer • Backend Developer • Fullstack Developer 
 
 Computer Science graduate from Kasetsart University with a focus on web and full-stack development. Experienced in building web applications using React and Next.js. Completed an internship at Synerry Corporation (Thailand), where I contributed to government web projects and assisted in the development of an AI chat platform built with Go and Fiber. Currently seeking a Full Stack Developer or Web Developer position to apply and further develop my technical skills in a professional environment.
 
