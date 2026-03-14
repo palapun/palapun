@@ -84,9 +84,6 @@ Computer Science graduate from Kasetsart University with a focus on web and full
   <a href="https://github.com/palapun" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/palapuns/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/>
-  </a>
   <a href="https://www.facebook.com/punyawat.sanadee" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/>
   </a>
